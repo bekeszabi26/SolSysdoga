@@ -1,0 +1,14 @@
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\bin\Debug\net6.0\solsysBekeSz.exe
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\bin\Debug\net6.0\solsysBekeSz.deps.json
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\bin\Debug\net6.0\solsysBekeSz.runtimeconfig.json
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\bin\Debug\net6.0\solsysBekeSz.dll
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\bin\Debug\net6.0\solsysBekeSz.pdb
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\obj\Debug\net6.0\solsysBekeSz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\obj\Debug\net6.0\solsysBekeSz.AssemblyInfoInputs.cache
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\obj\Debug\net6.0\solsysBekeSz.AssemblyInfo.cs
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\obj\Debug\net6.0\solsysBekeSz.csproj.CoreCompileInputs.cache
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\obj\Debug\net6.0\solsysBekeSz.dll
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\obj\Debug\net6.0\refint\solsysBekeSz.dll
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\obj\Debug\net6.0\solsysBekeSz.pdb
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\obj\Debug\net6.0\solsysBekeSz.genruntimeconfig.cache
+C:\Users\b19BekeS\Desktop\_SOLSYS\solsysBekeSz\solsysBekeSz\obj\Debug\net6.0\ref\solsysBekeSz.dll
